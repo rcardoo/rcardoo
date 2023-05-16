@@ -18,3 +18,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcardoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
+<h2>Projetos:</h2>
+<a href="https://rcardoo.github.io/ricardo-Portfolio/"><img src="./assets/rickdexHeader.png"/></a>
