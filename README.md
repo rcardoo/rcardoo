@@ -19,4 +19,4 @@
 </div>
 <br>
 <h2>Projetos:</h2>
-<a href="https://rcardoo.github.io/ricardo-Portfolio/"><img src="./assets/rickdexHeader.png"/></a>
+<a href="https://rcardoo.github.io/rickdex/"><img src="./assets/rickdexHeader.png"/></a>
