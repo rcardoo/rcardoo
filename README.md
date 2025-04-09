@@ -20,4 +20,4 @@
 <br>
 <h2>Projetos:</h2>
 <a href="https://rcardoo.github.io/rickdex/"><img src="./assets/rickdexHeader.png"/></a>
-<a href="tapcat.vercel.app"><img src="./assets/tapcat.png"/></a>
+<a href="tapcat.vercel.app" target="_blank"><img src="./assets/tapcat.png"/></a>
