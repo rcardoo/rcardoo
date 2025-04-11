@@ -1,5 +1,5 @@
 # Olá, me chamo Ricardo Teixeira
-<a href="https://rcardoo.github.io/ricardo-Portfolio/"><img src="./assets/Ricardo.png"/></a>
+<a href="https://ricardo-zeta.vercel.app"><img src="./assets/Ricardo.png"/></a>
 <h2>📫Contatos:</h2>
 <div>
   <a href="https://instagram.com/uirick_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
