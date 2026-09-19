@@ -82,12 +82,17 @@ Aplicação web em React com coleção de personagens, níveis de raridade, moed
 - **Formação Full Stack** — Digital College · Geração Tech — IEL · Em andamento
 - **Análise e Desenvolvimento de Sistemas** — Unifacid · Concluído em dezembro de 2025
 
-## GitHub em números
+## Atividade no GitHub
 
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rcardoo&amp;theme=github_dark" alt="Estatísticas do GitHub de José Ricardo" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcardoo&amp;theme=github_dark" alt="Linguagens dos repositórios de José Ricardo" />
-</div>
+<p align="center">
+  Acompanhe meus projetos, estudos e contribuições diretamente no GitHub.
+</p>
+
+<p align="center">
+  <a href="https://github.com/rcardoo"><strong>👨‍💻 Ver perfil</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/rcardoo?tab=repositories"><strong>📂 Explorar repositórios</strong></a>
+</p>
 
 ## Vamos conversar?
 
