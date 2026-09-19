@@ -85,8 +85,8 @@ Aplicação web em React com coleção de personagens, níveis de raridade, moed
 ## GitHub em números
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rcardoo&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=EC4899&text_color=8B949E&locale=pt-br" alt="Estatísticas do GitHub de José Ricardo" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcardoo&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED&text_color=8B949E&locale=pt-br" alt="Linguagens mais usadas por José Ricardo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rcardoo&amp;theme=github_dark" alt="Estatísticas do GitHub de José Ricardo" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcardoo&amp;theme=github_dark" alt="Linguagens dos repositórios de José Ricardo" />
 </div>
 
 ## Vamos conversar?
